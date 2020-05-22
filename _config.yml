@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: Evolutionary Systems Biology @ University of Potsdam
+title: "Evolutionary Systems Biology @ University of Potsdam"
 
 # Short description of your site
 description: Webpage for the independent research program Evolutionary Systems Biology at the University of Potsdam
@@ -171,7 +171,7 @@ date_format: "%B %-d, %Y"
 
 
 # --- You don't need to touch anything below here (but you can if you want) --- #
-
+git config --global --edit
 # Output options (more information on Jekyll's site)
 timezone: "UTC"
 markdown: kramdown
