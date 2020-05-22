@@ -1,11 +1,11 @@
 ---
 layout: page
 title: ESB
-subtitle: uFSP Evolutionary Systems Biology
+subtitle: Evolutionary Systems Biology
 use-site-title: true
 ---
 <p align='center'>
-	<img src="../img/ESBlogo3.png" alt='ESB logo' height="200px">
+	<img src="img/esb-logo.png" alt='ESB logo' height="200px">
 </p>
 
 Understanding organismal diversity is a major goal of biology. 
@@ -38,7 +38,7 @@ field is to bring concepts and techniques of systems biology to bear on evolutio
 and at the same time to propel further developments in systems biology by appropriating quantitative 
 approaches from evolutionary genetics. 
 <p align='center'>
-	<img src="../img/logo_Potsdam.png" alt='logo_Potsdam' height="160px">
+	<img src="../img/up-logo-2.png" alt='logo_UP Potsdam Faculty of Science' height="160px">
 </p>
 
 ## News
