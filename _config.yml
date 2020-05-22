@@ -86,13 +86,13 @@ excerpt_length: 50
 # UP bg: #ededed;
 
 #navbar-col: "#F5F5F5"
-navbar-col: "#cfdae3"
+navbar-col: "#CFDAE3"
 #navbar-text-col: "#404040"
-navbar-text-col: "#003f60";
+navbar-text-col: "#003F60";
 #navbar-border-col: "#EAEAEA"
-navbar-border-col: "#0e8cd0"
+navbar-border-col: "#0E8CD0"
 #page-col: "#FFFFFF"
-page-col: "#ededed"
+page-col: "#EDEDED"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
