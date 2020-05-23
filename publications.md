@@ -5,7 +5,7 @@ subtitle: of the priority research area Evolutionary Systems Biology
 use-site-title: true
 ---
 <p align='center'>
-	<img src="img/esb-logo.png" alt='ESB logo' height="200px">
+	<img src="../img/esb-logo.png" alt='ESB logo' height="200px">
 </p>
 
 ## Bäurle

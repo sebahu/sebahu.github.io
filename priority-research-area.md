@@ -41,5 +41,5 @@ The specific aims of the priority research area **Evolutionary Systems Biology**
     architectures in independently evolved organisms.
 
 <p align='center'>
-	<img src="img/esb-logo.png" alt='Different networks leading to different phenotypes' height="480px">
+	<img src="../img/esb-logo.png" alt='Different networks leading to different phenotypes' height="480px">
 </p>
