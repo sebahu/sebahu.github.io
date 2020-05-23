@@ -17,5 +17,5 @@ Prof. Dr. Michael Lenhard
 
 Prof. Dr. Elke Dittmann
 
-Prof. Dr. Zoran Nikoloski##Deputies
+Prof. Dr. Zoran Nikoloski
 
