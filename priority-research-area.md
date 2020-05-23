@@ -40,6 +40,7 @@ The specific aims of the priority research area **Evolutionary Systems Biology**
     and trade-offs of and between traits can be realized by different network
     architectures in independently evolved organisms.
 
+### Implications of differences between cellular networks for emerging properties across species.
 <p align='center'>
 	<img src="../img/esb-logo.png" alt='Different networks leading to different phenotypes' height="480px">
 </p>

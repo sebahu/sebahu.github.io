@@ -30,10 +30,17 @@ the plethora of data obtained from genotyping technologies, to survey genetic
 variation, and from various molecular and cellular profiling technologies,
 to monitor the diverse cellular components.
 
+### Conceptual and methodological connections between evolutionary biology and systems biology.
+
 <p align='center'>
 	<img src="../img/Figure-evolutionary-systems-biology.png" alt='Overview of evolutionary and systems biology'>
 </p>
 
+ Mutations, natural selection, and genetic drift shape the distribution of alleles in a population. 
+The Hardy-Weinberg law, a seminal theoretical result in evolutionary biology, states that in absense of 
+these driving forces and without migration the genotype and allele frequences in a population remain constant. 
+Systems biology focuses on cellular networks in an individual by employing phenotyping technologies 
+across different temporal and spacial scales.
 
 ## News
 The page has been started!
