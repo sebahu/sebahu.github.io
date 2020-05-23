@@ -32,9 +32,9 @@ to monitor the diverse cellular components.
 
 <p align='center'>
 	<img src="../img/Figure-evolutionary-systems-biology.png" alt='Overview of evolutionary and systems biology'>
-##### Conceptual and methodological connections between evolutionary biology and systems biology:
 </p>
 
+##### Conceptual and methodological connections between evolutionary biology and systems biology:
 
  Mutations, natural selection, and genetic drift shape the distribution of alleles in a population. 
 The Hardy-Weinberg law, a seminal theoretical result in evolutionary biology, states that in absense of 
