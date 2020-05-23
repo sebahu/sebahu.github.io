@@ -13,11 +13,11 @@ author: Sebastian Huss
 
 navbar-links:
 
-  Priority Research Area: "project"
-  Members: "team"
+  Priority Research Area: "priority-research-area"
+  Members: "members"
   Resources:
     - Seminar Series: "seminars"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - PhD projects: "phd-projects"
   PUBLICATIONS: "publications"
   Contact Us: "contact"
 # --- Logo --- #
