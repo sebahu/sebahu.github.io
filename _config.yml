@@ -13,10 +13,10 @@ author: Sebastian Huss
 
 navbar-links:
 
-  PROJECT: "project"
-  TEAM: "team"
-  RESOURCES:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  Priority Research Area: "project"
+  Members: "team"
+  Resources:
+    - Seminar Series: "seminars"
     - Learn markdown: "https://www.markdowntutorial.com/"
   PUBLICATIONS: "publications"
   Contact Us: "contact"
@@ -100,7 +100,7 @@ footer-link-col: "#404040"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+page-img: "img/network3.png"
 
 # --- Web Statistics Section --- #
 
