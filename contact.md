@@ -13,7 +13,7 @@ use-site-title: true
 Prof. Dr. Michael Lenhard
 
  
-##Deputy Speakers
+## Deputy Speakers
 
 Prof. Dr. Elke Dittmann
 

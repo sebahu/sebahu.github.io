@@ -7,12 +7,12 @@ use-site-title: true
 
 ## Board
 
-###Speaker
+### Speaker
 
 Prof. Dr. Michael Lenhard
 
 
-###Deputy Speakers
+### Deputy Speakers
 
 Prof. Dr. Elke Dittmann
 

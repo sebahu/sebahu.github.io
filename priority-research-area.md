@@ -4,7 +4,7 @@ title: Priority Research Area
 use-site-title: true
 ---
 
-##Objectives
+## Objectives
 
 The main objectives of the priority research area **Evolutionary Systems
 Biology** at the University of Potsdam are threefold:
@@ -16,7 +16,7 @@ Biology** at the University of Potsdam are threefold:
  3. to establish the University of Potsdam as a leading institution in 
 	Evolutionary Systems Biology.
 	
-##Goals
+## Goals
 
 To understand how biodiversity came about through evolution, it is necessary
 to explain how the underlying molecular and cellular networks have changed to
@@ -28,7 +28,7 @@ techniques of systems biology to bear on evolutionary questions and at the
 same time to propel further developments in systems biology by appropriating
 quantitative approaches from evolutionary genetics.
 
-##Aims
+## Aims
 The specific aims of the priority research area **Evolutionary Systems Biology**
  at the University of Potsdam are twofold:
  
