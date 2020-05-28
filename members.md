@@ -19,26 +19,17 @@ use-site-title: true
 [Prof. Dr. Zoran Nikoloski](https://www.uni-potsdam.de/en/ibb-bioinformatik/members)
 
 
+<font size="5" face="Liberation Serif" >
 <p align='center'>
-<table>
-<tr>
-<td>
-  <a href="https://www.uni-potsdam.de/en/university-of-potsdam" title="to the Uni-Homepage" target="_top">
-  <img src="img/up-logo-math-2.png" alt="Logo Institute of Biochemistry and Biology">
-  </a>
-</td>
-<td>&nbsp;</td>
-<td>
-
-<a href="/en/ibb/" title="to the homepage of Institute of Biochemistry and Biology">
-   <font size="5" face="Liberation Serif" >
-		Institute of Biochemistry and Biology
-   </font >	
-</a>
-</td>
-</tr>
-</table>
+	<a href="https://www.uni-potsdam.de/en/university-of-potsdam" title="to the Uni-Homepage" target="_top">
+			<img src="img/up-logo-math-2.png" alt="Logo Institute of Biochemistry and Biology">
+	</a>
+	&nbsp;		
+	<a href="https://www.uni-potsdam.de/en/ibb/" title="to the homepage of Institute of Biochemistry and Biology">
+		 Institute of Biochemistry and Biology 
+	</a>
 </p>
+</font >
 
 ## Member Groups at the Institute of Biochemistry und Biology at the University of Potsdam
 
