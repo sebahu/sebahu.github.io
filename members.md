@@ -20,7 +20,24 @@ use-site-title: true
 
 
 <p align='center'>
-	<a href="https://www.uni-potsdam.de/en/ibb/"><img src="../img/up-logo-2.png" alt='logo_UP Potsdam Faculty of Science' height="160px"></a>
+<table>
+<tr>
+<td>
+  <a href="https://www.uni-potsdam.de/en/university-of-potsdam" title="to the Uni-Homepage" target="_top">
+  <img src="img/up-logo-math-2.png" alt="Logo Institute of Biochemistry and Biology">
+  </a>
+</td>
+<td>&nbsp;</td>
+<td>
+
+<a href="/en/ibb/" title="to the homepage of Institute of Biochemistry and Biology">
+   <font size="5" face="Liberation Serif" >
+		Institute of Biochemistry and Biology
+   </font >	
+</a>
+</td>
+</tr>
+</table>
 </p>
 
 ## Member Groups at the Institute of Biochemistry und Biology at the University of Potsdam
