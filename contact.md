@@ -8,14 +8,14 @@ use-site-title: true
 
 
 
-## Speaker
+### Speaker
 
-Prof. Dr. Michael Lenhard
+[Prof. Dr. Michael Lenhard](https://www.uni-potsdam.de/en/ibb-genetik/people)
 
- 
-## Deputy Speakers
 
-Prof. Dr. Elke Dittmann
+### Deputy Speakers
 
-Prof. Dr. Zoran Nikoloski
+[Prof. Dr. Elke Dittmann](https://www.uni-potsdam.de/en/ibb-mikrobiologie/members-microbiology-university-of-potsdam)
+
+[Prof. Dr. Zoran Nikoloski](https://www.uni-potsdam.de/en/ibb-bioinformatik/members)
 
