@@ -22,7 +22,7 @@ use-site-title: true
 <font size="5" face="Liberation Serif" >
 <p align='center'>
 	<a href="https://www.uni-potsdam.de/en/university-of-potsdam" title="to the Uni-Homepage" target="_top">
-			<img src="img/up-logo-math-2.png" alt="Logo Institute of Biochemistry and Biology">
+			<img src="../img/up-logo-math-2.png" alt="Logo Institute of Biochemistry and Biology">
 	</a>
 	&nbsp;		
 	<a href="https://www.uni-potsdam.de/en/ibb/" title="to the homepage of Institute of Biochemistry and Biology">
