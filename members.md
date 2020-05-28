@@ -62,7 +62,7 @@ use-site-title: true
 
 [Prof. Dr. Ralph Tiedemann, Evolutionary Biology](http://uni-potsdam.de/ibb-evolutionsbiologie)
 
-[Frau Dr. Stefanie Hartmann]()
+[Frau Dr. Stefanie Hartmann](https://www.uni-potsdam.de/de/ibb-genomics/group/hartmann.html)
 
 ## External Collaborations
 
